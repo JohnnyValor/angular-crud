@@ -17,6 +17,7 @@ Concepts learned:
       Adding types to variables & functions, typecasting, assertion
       Interfaces, Classes, Declaration, Expression, Constructors, Instantiation 
       Inheritance, Keywords, Generics, Decorators, Methods
+      
     Angular:
       Components & Services
       Modeling Objects, Classes, Observables
