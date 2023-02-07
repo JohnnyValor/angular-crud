@@ -31,7 +31,7 @@ Concepts learned:
       Events, EventEmitter
       
  
-AFter learning these concepts, I decided to build a task list application and was challenged to reorganize the Angular heroes tutorial into one. 
+AFter learning these concepts, I decided to build a task list application and was challenged to reorganize the Angular heroes tutorial. Then deploy the application. 
 
 Link to demo: https://jv-angular-heroku.herokuapp.com/task-list
 
